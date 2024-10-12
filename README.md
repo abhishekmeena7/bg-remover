@@ -8,4 +8,6 @@ showcases how modern web technologies can achieve complex image processing tasks
 How to Use:-
 
 git clone https://github.com/abhishekmeena7/bg-remover
+
+
 open index.html
